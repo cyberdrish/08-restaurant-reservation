@@ -1,6 +1,4 @@
-import { useEffect, useState } from "react";
 import formatDate from "../helper/helper";
-import Modal from "./Modal";
 
 const ContactDetailForm = ({
   bookingTotalPersons,

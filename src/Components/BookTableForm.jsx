@@ -11,7 +11,7 @@ function BookTableForm() {
   const [bookingStep, setBookingStep] = useState(1);
   const [bookingName, setBookingName] = useState("");
   const [bookingPhone, setBookingPhone] = useState("");
-
+  //Should have use react form or somthing else to manage this.
   return (
     <div className="m-3 mt-0">
       <div className="p-6 border-1 rounded-[.5rem] max-w-max">
