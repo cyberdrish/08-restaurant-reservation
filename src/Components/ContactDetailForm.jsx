@@ -1,4 +1,4 @@
-import formatDate from "../helper/helper";
+import formatDate from "../helper/Helper";
 
 const ContactDetailForm = ({
   bookingTotalPersons,
